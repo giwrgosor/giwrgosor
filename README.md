@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a 22 y.o. BSc student at AUEB (Athens University of Economics and Business) studying Computer Science!<br><br>- 📚 I'm currently studying Human-Computer Interaction, Computer Networks, Conceptual Modeling of Information Systems and IT Law<br>- 🌱 Interested in Software Engineering, Cybersecurity and Networks</p>
+<p align="left">I'm a 22 y.o. MSc student at AUEB (Athens University of Economics and Business) studying Computer Science!<br><br>- 📚 I'm currently studying Next Generation Internet, NLP, Blockchains and Smart Contracts and Distributed Systems, Big Data and Cloud Computing <br>- 🌱 Interested in Software Engineering, Cybersecurity and Networks</p>
 
 ###
 
